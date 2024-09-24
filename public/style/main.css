@@ -381,8 +381,6 @@ nav {
   height: 100%;
   width: 100%;
   max-width: 500px;
-  background-color: var(--primary-color);
-  border-radius: 100%;
   z-index: -1;
 }
 
