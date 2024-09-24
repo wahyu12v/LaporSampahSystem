@@ -30,7 +30,7 @@
         </div>
       </div>
       <ul class="nav__links" id="nav-links">
-        <li><a href="#home">Home</a></li>
+        <li><a href="#home">Dashboard</a></li>
         <li><a href="#definisi">Definisi</a></li>
         <li><a href="#team">Team Kami</a></li>
         <li><a href="#tutorial">Laporkan</a></li>
